@@ -1,9 +1,9 @@
-#include "main.h"#include "main.h"
+#include "main.h"
 
 /**
  * mul - multiplies 2 nums
- * @a: first param
- * @b: second param
+ * @a: first paramme
+ * @b: second paramme
  * Return: something
  */
 
