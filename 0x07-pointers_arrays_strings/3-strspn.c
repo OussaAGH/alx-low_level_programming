@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * _strspn - return length of string that matches values consistently
  * @s: string to search
