@@ -1,1 +1,1 @@
- First immerse into C 
+ this is it 
